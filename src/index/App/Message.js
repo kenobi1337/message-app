@@ -1,6 +1,6 @@
 import { Typography } from '@material-ui/core';
 import React, { forwardRef } from 'react';
-import '../style/Message.css';
+import './Message/Message.css';
 import { Card, CardContent } from '@material-ui/core';
 
 const Message = forwardRef(({ message, username }, ref) => {
