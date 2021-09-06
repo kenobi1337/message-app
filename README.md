@@ -1,1 +1,1 @@
-# messagenger like fron-end app, chat app
+# chat app (web)
